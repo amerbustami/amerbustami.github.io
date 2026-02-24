@@ -6,7 +6,7 @@ TemplateMo 592 glossy touch
 https://templatemo.com/tm-592-glossy-touch
 
 */
-
+h2{color: white;}
 * {
     margin: 0;
     padding: 0;
@@ -14,6 +14,8 @@ https://templatemo.com/tm-592-glossy-touch
     button[type="submit"] {
         font-family: inherit;
         font-size: 16px;
+        
+        
     }
 }
 body {
@@ -730,4 +732,4 @@ button[type="submit"] {
     }
    
 }
- h2{color: white;}
+ 
